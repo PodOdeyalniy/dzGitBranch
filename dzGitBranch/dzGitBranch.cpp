@@ -11,4 +11,8 @@ int main()
     final = x - y;
 
     cout << final;
+
+    final = x * y;
+
+    cout << final;
 }
