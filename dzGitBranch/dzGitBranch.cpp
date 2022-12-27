@@ -10,5 +10,5 @@ int main()
 
     final = x + y;
 
-    cout << final;
+    cout << final << endl;
 }
