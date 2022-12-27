@@ -5,9 +5,10 @@ using namespace std;
 
 int main()
 {
-    int x=2, y=4;
+    int x2=4, y2=8;
     double final;
 
+    final = x2 + y2;
     final = x - y;
 
     cout << final << endl;
