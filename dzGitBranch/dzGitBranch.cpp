@@ -13,9 +13,9 @@ int main()
     cout << final << endl;
     final = x - y;
 
-    cout << final;
+    cout << final << endl;
 
     final = x * y;
 
-    cout << final;
+    cout << final << endl;
 }
